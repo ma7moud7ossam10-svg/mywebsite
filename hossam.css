@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+p{
+    color:blue
+}
+.box{
+    background-color: gray;
+}
+.main{
+    color: green;
+}
+.mahmoud{
+    color: black;
+}
+.unique{
+    color: blueviolet;
+}
+.hex-color{
+    color: #fff;
+}
+.rgb-color{
+    color: (0,128,255);
+}
+.rgba-color{
+    color: (255,0,0,0.5);
+}
